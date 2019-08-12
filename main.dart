@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "Login Anyway (Pull)",
+      title: "Login Anyway (Push)",
       home: Home(),
     ));
 
