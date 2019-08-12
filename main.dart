@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 void main() => runApp(MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: "Login Anyway last try",
+      title: "Login Anyway change on branch",
       home: Home(),
     ));
 
